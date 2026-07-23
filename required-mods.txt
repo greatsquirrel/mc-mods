@@ -43,7 +43,6 @@ collective-1.20.1-8.39.jar
 combatroll-forge-1.3.3+1.20.1.jar
 comforts-forge-6.4.0+1.20.1.jar
 compatapi-1.0.3.jar
-compatartifacts-1.0.0.jar
 corpse-forge-1.20.1-1.0.23.jar
 corpsecurioscompat-1.20.1-Forge-4.0.1.jar
 cosmeticarmorreworked-1.20.1-v1a.jar
