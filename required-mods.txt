@@ -7,6 +7,7 @@ BorderlessWindow-1.20-1.6.0.jar
 Chunky-1.3.146.jar
 Companion-1.20.1-Forge-5.4.1.jar
 CreativeCore_FORGE_v2.12.39_mc1.20.1.jar
+DungeonsArise-1.20.1-2.1.57-release.jar
 DynamicTrees-1.20.1-1.4.11.jar
 DynamicTreesBOP-1.20.1-3.3.4.jar
 DynamicTreesPlus-1.20.1-1.2.2.jar
