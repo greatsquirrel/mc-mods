@@ -80,3 +80,9 @@ tectonic-3.0.17-forge-1.20.1.jar
 tenshilib-1.20.1-1.7.6-forge.jar
 tidal-towns-1.3.4.jar
 twilightforest-1.20.1-4.3.2508-universal.jar
+smallships-forge-1.20.1-2.0.0-b1.4.jar
+hmag-forge-mc1.20.1-9.0.37.jar
+diet-forge-2.1.1+1.20.1.jar
+catalogue-forge-1.20.1-1.8.0.jar
+jeed-1.20-2.2.5.jar
+cagedmobs-1.20.1-forge-2.0.5.jar
